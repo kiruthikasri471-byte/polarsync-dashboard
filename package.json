@@ -1,0 +1,9 @@
+{
+  "name": "polarsync-dashboard",
+  "version": "1.0.0",
+  "description": "PolarSync Antarctic Dashboard",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
